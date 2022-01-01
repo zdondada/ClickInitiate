@@ -4,7 +4,7 @@ slug: ""
 title: Digital Strategies From ClickInitiate's Mystical Academy
 featuredImage: https://ucarecdn.com/39291614-f553-41b5-a418-38ed24bde0d2/
 subtitle: "# We help you: **Upskill, Crosstrain** & Ensure Your Team is
-  Routinely **Equipped** w/ Pristine Digital **Marketing Education**"
+  Routinely **Equipped** to Do This The BEST"
 meta:
   description: Leverage the most advanced and effective digital marketing
     knowledge in a simple, scalable format that can be tailored to your
