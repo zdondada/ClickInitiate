@@ -1,8 +1,8 @@
 ---
 template: HomePage
 slug: ""
-title: Digital Strategies From ClickInitiate's Mystical Academy
-featuredImage: https://ucarecdn.com/39291614-f553-41b5-a418-38ed24bde0d2/
+title: Great Digital Strategies From Our Mystical Academy
+featuredImage: https://ucarecdn.com/b9182bbc-f65f-4ec3-9365-7b76f1bf8e7a/
 subtitle: "# We help you: **Upskill, Crosstrain** & Ensure Your Team is
   Routinely **Equipped** to Do This The BEST"
 meta:
