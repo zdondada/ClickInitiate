@@ -1,27 +1,36 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Digital Strategies From ClickInitiate's Mystical Academy
+featuredImage: https://ucarecdn.com/39291614-f553-41b5-a418-38ed24bde0d2/
+subtitle: "# We help you: **Upskill, Crosstrain** & Ensure Your Team is
+  Routinely **Equipped** w/ Pristine Digital **Marketing Education**"
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Leverage the most advanced and effective digital marketing
+    knowledge in a simple, scalable format that can be tailored to your
+    business.
+  title: Upskill, Cross-Train & Integrate Digital Marketing Education
+  canonicalLink: https://clickinitiate.com/
 ---
+# Listen.. All we get is wins, so we're in this to win with the winners! Tips & tricks are worth, but a pittance, often the conscription of tricksters ....and over here bullshitters get evicted.
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+# Our vision: Enriching you and your team with killer instincts, digital precision and wisdom that nobody else is in a position to give to you. 
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+# With about 40 to 50,000 hours invested in this agenda since I decided it was worth the effort, I've ended up in the inevitable position where you can bring in any expert and chances are I will have a leg-up going head-to-head against them. This was an active pursuit, full of tons of effort, that I engaged with for essentially two decades. 
+
+# Now I've got so much passion for being able to empty my head of all the ideas that are pent up by helping others get a leg-up.
+
+# Consider giving ClickInitiate, the project of Zach Bennett, a whirl. 
 
 # Features
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+* **[Gatsby](https://gatsbyjs.org)** static site generator
+* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
+* Dynamic menus and forms
+* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
+* Fully responsive layout for mobile and widescreen browsing
+* Blog searching and paging functionality
+* Seamless image and content sliders
 
 ## Get started
 
