@@ -1,10 +1,16 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Browse Marketing Upskill / Learning Resources
+featuredImage: https://ucarecdn.com/c974830f-5737-4ca1-903f-f2b381873ee9/
+subtitle: >-
+  
+
+  In-Depth, One-Of-A-Kind Digital Marketing Knowledge in the form of Blogs, Podcasts & Video Content
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: Turn the Tables on your Competition w/ Digital Marketing Knowledge
+    You Cannot Find Anywhere Else, No Matter If you prefer Reading, Listening or
+    Watching the Content! )
+  title: Learn Better Digital Marketing Strategies - Blogs, Videos & Podcasts
+  canonicalLink: https://clickinitiate.com/learn-digital-marketing/
 ---
