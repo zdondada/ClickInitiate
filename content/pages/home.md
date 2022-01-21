@@ -1,13 +1,14 @@
 ---
 template: HomePage
 slug: ""
-title: ALCHEMICAL DIGITAL STRATEGY STRICTLY FOR INITIATES
+title: DIGITAL MARKETING WISDOM FROM THE MYSTICS
 featuredImage: https://ucarecdn.com/00b066f4-d661-4172-9e8c-1013549b1bf5/-/preview/-/enhance/4/
 subtitle: >-
-  # The ClickInitiate Academy of Digital Mystics!
+  # Upskill Exponentially, Crosstrain Vehemently & Ensure Your Team 100%
+  Unadulterated, Raw Digital Marketing Prowess!
 
 
-  **Upskill, Crosstrain** & Ensure your team is excreting no less than unadulterated, raw digital marketing prowess!
+  *I'm here to lead by example, utilizing my 20+ years on the forefront of everything digital, to share amazing content and garner an audience of close-knit, like-minded folk who see our space over here as an amazing repository of knowledge, wisdom & curiosity!
 meta:
   description: Leverage the most advanced and effective digital marketing
     knowledge in a simple, scalable format that can be tailored to your
@@ -16,7 +17,7 @@ meta:
   canonicalLink: https://clickinitiate.com/
 ---
 
-# What I seek are the brothers and sisters out there, whom want to step up and become initiates themselves or simply partake in the content I plan on publishing routinely!
+# I'd like to connect with the brothers and sisters out there, whom want to step up and become initiates themselves or simply partake in the content I plan on publishing routinely!
 
 # Tips & tricks are worth, but a pittance, as a matter of fact - they're often the conscription of tricksters... Snake-oil salesman! Over here -  bullshitters get evicted! I'm here to bring you True Value like your neighborhood hardware store...
 
