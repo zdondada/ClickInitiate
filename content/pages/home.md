@@ -1,10 +1,13 @@
 ---
 template: HomePage
 slug: ""
-title: GET HIP TO A DIGITAL STRATEGY STRICTLY FOR INITIATES OF THIS MYSTICAL ACADEMY
+title: ALCHEMICAL DIGITAL STRATEGY STRICTLY FOR INITIATES
 featuredImage: https://ucarecdn.com/00b066f4-d661-4172-9e8c-1013549b1bf5/-/preview/-/enhance/4/
-subtitle: "# **Upskill, Crosstrain** & Ensure your team is excreting no less
-  than unadulterated, raw digital marketing prowess!"
+subtitle: >-
+  # The ClickInitiate Academy of Digital Mystics!
+
+
+  **Upskill, Crosstrain** & Ensure your team is excreting no less than unadulterated, raw digital marketing prowess!
 meta:
   description: Leverage the most advanced and effective digital marketing
     knowledge in a simple, scalable format that can be tailored to your
