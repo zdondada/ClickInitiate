@@ -1,7 +1,7 @@
 ---
 template: BlogIndex
 slug: blog
-title: Upskilling Your Digital Marketing Prowess
+title: Learn Marketing - Upskilling Your Digital Prowess
 featuredImage: https://ucarecdn.com/c974830f-5737-4ca1-903f-f2b381873ee9/
 subtitle: "> > ## **Browse In-Depth, One-Of-A-Kind Digital Marketing Knowledge
   in the form of Blogs, Podcasts & Video Content**"
