@@ -1,19 +1,20 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+title: Contact ClickInitiate to Learn Digital Marketing
+featuredImage: https://ucarecdn.com/7a887820-b764-45c2-a911-9ff42e1526cd/
 subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+address: Philadelphia, PA
+phone: +1 610 809 1591
+email: zach@clickinitiate.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+  - lat: "-27.9654732"
+    lng: "153.2432449"
+    mapLink: ""
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: Find out how we can help you learn digital marketing, beginning
+    with the basics of a strategy and eventually mastering your craft
+  title: Contact Us to Learn Digital Msrketing | ClickInitiate
 ---
 
 # Example contact form
